@@ -1,0 +1,34 @@
+li {
+    list-style: none;
+}
+
+body {
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 4px solid black;
+}
+
+.C {
+    float: left;
+    margin-left: 190px;
+}
+
+.D {
+    margin-left: 125px;
+}
+
+.b {
+    margin-left: 20px;
+}
+
+.E {
+    margin-left: 10px;
+}
+
+.R {
+    margin-left: 160px;
+}
+
+.T {
+    margin-left: 70px;
+}
